@@ -2,6 +2,8 @@ React Calculator
 ---
 *By Matthew Olivetti*
 
+[Live Demo](https://molivetti.github.io/react-calculator/)
+
 Supports these functions:
 - Add
 - Subtract
